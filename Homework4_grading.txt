@@ -1,0 +1,38 @@
+
+
+Question 1: Correct
+
+Question 2: Partially correct (2/3)
+Note: For LDA, I specified the discriminant function but made no reference to Gaussian density. Additionally, did not mention QDA/LDA distinction regarding flexibity
+
+Question 3: Correct
+
+Question 4:Partially correct (1/2)
+I identified the underlying reason why LDA would be preferrred over KNN in this case. However, I stated that the reason why we would prefer the LDA over KNN would be because KNN when k=1 is essentially regression, whereas LDA is classification. Technically KNN is classifying here, so my logic was off.
+
+Question 5: 
+a) correct, although better plotting methods could have been used on my part
+b) correct
+c) correct
+d) Incorrect - It is not clear to me what I did wrong (my error is 44%). The training and testing datasets were created properly. The logistic regression model appears to be correct. The steps for adding in direction are nearly identical in my code and the solution. This appears to be a coding issue. I will need to talk with Krista to see what I did wrong...
+e) correct
+f) correct
+g) correct
+h) correct
+i) correct
+
+Question 6:
+a) Correct
+b) Correct
+c) Correct
+d) correct*
+e) correct*
+f) correct*
+g) correct*
+
+*I did not feel cylinder had a solid relationship with mpg and didnt use it in my model. Therefore, my error rates differ from ones in solutions. However, the code I used is nearly the same as the code used in the solutions, so I do believe I performed these correctly.
+
+
+
+Overall I'd say I did about 86% (B) on this homework. There was a fundemental conceptual misunderstanding I had with regards to Q4, so I am glad I was corrected there. However, I still for the life of me can't figure out why I keep getting the wrong answer on Q5...
+
